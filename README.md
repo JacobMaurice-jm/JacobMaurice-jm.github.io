@@ -1,5 +1,3 @@
-# JacobMaurice-jm.github.io
-
 # **Welcome to TuneFlow**
 
 ### Tech Stack
